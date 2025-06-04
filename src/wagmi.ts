@@ -1,6 +1,4 @@
-import { http, createConfig } from 'wagmi'
 import { kairos, kaia } from 'wagmi/chains'
-import { coinbaseWallet, injected, walletConnect } from 'wagmi/connectors'
 import { getDefaultConfig } from '@rainbow-me/rainbowkit';
 
 
